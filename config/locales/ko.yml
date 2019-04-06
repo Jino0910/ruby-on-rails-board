@@ -1,0 +1,8 @@
+#---
+ko:
+    activerecord:
+        errors:
+            messages:
+                validation_blank: "%{name}을(를) 입력해 주세요."
+    erros:
+        format: "%{message}"
